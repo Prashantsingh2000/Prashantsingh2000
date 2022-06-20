@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prashantsingh2000
 - 👀 I’m interested in  to leaarn AI
-- 🌱 I’m currently learning C Programming
+- 🌱 I’m currently learning C++ Programming
 - 💞️ I’m looking to collaborate on other students who bulid project
 - 📫 How to reach me ...
 
