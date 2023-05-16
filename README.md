@@ -2,7 +2,8 @@
 - 👀 I’m interested in  to leaarn AI
 - 🌱 I’m currently learning C++ Programming
 - 💞️ I’m looking to collaborate on other students who bulid project
-- 📫 How to reach me ...
+- 📫 FRONTEND DEVELOPER
+- 
 
 <!---
 Prashantsingh2000/Prashantsingh2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
